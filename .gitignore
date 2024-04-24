@@ -1,2 +1,12 @@
+
+.pdf
+.gz
+.html
+.ipynb_checkpoints
+
 # Ignore a specific directory
 datasets/
+Homework/HW1/
+Homework/HW2/
+Homework/HW3/
+
